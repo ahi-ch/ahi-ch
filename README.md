@@ -2,7 +2,6 @@
 - 👀 I’m interested in WebDevelopment, Mobile Application Development and Artificial intelligence.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on long-term Work.
-- 📫 How to reach me ...
 
 <!---
 ahi-ch/ahi-ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
